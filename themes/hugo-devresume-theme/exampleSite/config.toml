@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "https://denzl85.github.io/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
@@ -302,8 +302,3 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-twitter-square"
         url = "//twitter.com/username"
         title = "@username"
-
-
-
-
-
