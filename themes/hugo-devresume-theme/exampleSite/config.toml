@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://denzl85.github.io/"
+baseURL = "https://denzl85.github.io/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
